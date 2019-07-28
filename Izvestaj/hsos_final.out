@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Postavka problema}{}% 1
+\BOOKMARK [1][-]{section.2}{Teorijsko re\235enje}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Fazni akumulator}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Generator odbiraka cosx}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{FIR filtar}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Analogni rekonstrukcioni filtar}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Potiskivanje spurova}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{D\236iter}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{Generisanje signala u trecoj Nikvistovoj zoni}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Razvojno okru\236enje}{}% 10
+\BOOKMARK [1][-]{section.4}{Funkcionalni blokovi realizovanog sistema}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Fazni akumulator}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Generator odbiraka cosx}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.3}{Diter}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.4}{FIR filtar}{section.4}% 15
+\BOOKMARK [1][-]{section.5}{Zakljucak}{}% 16
+\BOOKMARK [1][-]{section*.1}{Literatura}{}% 17

@@ -1,0 +1,11 @@
+\babel@toc {serbian}{}
+\contentsline {chapter}{\numberline {1}Specifikacija projekta}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Postavka problema}{3}{section.1.1}
+\contentsline {chapter}{\numberline {2}Teorijsko re\IeC {\v s}enje}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}\IeC {\v S}irina kontrolne re\IeC {\v c}i $f_0$}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Generator odbiraka $cos\tmspace +\thinmuskip {.1667em}x$}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}FIR filtar}{6}{section.2.3}
+\contentsline {section}{\numberline {2.4}Analogni rekonstrukcioni filtar}{6}{section.2.4}
+\contentsline {section}{\numberline {2.5}Potiskivanje spurova}{6}{section.2.5}
+\contentsline {section}{\numberline {2.6}D\IeC {\v z}iter}{6}{section.2.6}
+\contentsline {section}{\numberline {2.7}Tre\IeC {\'c}a Nikvistova zona}{6}{section.2.7}
